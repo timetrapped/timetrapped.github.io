@@ -81,7 +81,10 @@ CHAKRA.slider = function(){
 											{image : '/img/slider-images/ach.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''},
 											{image : '/img/slider-images/harvest.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''},
 											{image : '/img/slider-images/taylors.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''},
-											{image : '/img/slider-images/spinx.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''}
+											{image : '/img/slider-images/spinx.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''},
+											{image : '/img/slider-images/community.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''},
+											{image : '/img/slider-images/older.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''},
+											{image : '/img/slider-images/lettering.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''}
 									],
 									
 		// Theme Options			   
