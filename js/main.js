@@ -78,7 +78,7 @@ CHAKRA.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											{image : '/img/slider-images/hti.jpg', title : '<div class="slide-content">HTI</div>', thumb : '', url : ''},
-											{image : '/img/slider-images/image02.jpg', title : '<div class="slide-content">Responsive Design</div>', thumb : '', url : ''},
+											{image : '/img/slider-images/ach.jpg', title : '<div class="slide-content">A Child\'s Haven</div>', thumb : '', url : ''},
 											{image : '/img/slider-images/image03.jpg', title : '<div class="slide-content">FullScreen Gallery</div>', thumb : '', url : ''},
 											{image : '/img/slider-images/image04.jpg', title : '<div class="slide-content">Showcase Your Work</div>', thumb : '', url : ''}
 									],
